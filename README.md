@@ -1,4 +1,4 @@
-# Traffic-accident-alayser
+# Traffic-accident-analyser
 Anylising traffic accidents in India using numpy,Pandas in python
 
 
